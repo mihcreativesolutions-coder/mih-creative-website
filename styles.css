@@ -344,6 +344,81 @@ h1, h2, h3, h4 {
 .card-ochre { background: var(--brand-ochre); }
 .card-cream { background: var(--surface-card); }
 
+/* ---- Prose blocks (Problem / Clarity Shift narrative) ---- */
+.prose {
+  max-width: 680px;
+  color: var(--body);
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0 0 var(--sp-xl);
+}
+
+.prose p { margin: 0 0 1em; }
+.prose p:last-child { margin-bottom: 0; }
+
+.cost-callout {
+  background: var(--surface-card);
+  border-radius: var(--r-lg);
+  padding: var(--sp-xl);
+  max-width: 680px;
+  margin: 0 0 var(--sp-xl);
+}
+
+.callout-label {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--ink);
+  margin: 0 0 var(--sp-md);
+}
+
+.cost-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+}
+
+.cost-list li {
+  position: relative;
+  padding-left: 22px;
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--body);
+}
+
+.cost-list li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--brand-coral);
+}
+
+.pull-quote {
+  max-width: 640px;
+  margin: var(--sp-xl) 0 0;
+}
+
+.pillars-closing {
+  max-width: 720px;
+  margin: var(--sp-xxl) auto 0;
+  text-align: center;
+  color: var(--body-strong);
+}
+
+.feature-card .icon {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: -0.3px;
+}
+
 /* ---- Why MIH (value props) ---- */
 .value-grid {
   display: grid;
@@ -424,7 +499,7 @@ h1, h2, h3, h4 {
 
 .footer-top {
   display: grid;
-  grid-template-columns: 1.4fr 1fr 1fr 1fr;
+  grid-template-columns: 1.6fr 1fr 1fr;
   gap: var(--sp-xl);
   padding-bottom: var(--sp-xxl);
 }

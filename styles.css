@@ -317,11 +317,11 @@ h1, h2, h3, h4 {
   background: #fff;
   border: 1px solid rgba(20, 18, 15, 0.08);
   border-radius: var(--r-md);
-  padding: var(--sp-md);
+  padding: var(--sp-sm);
 }
 
 .logo-marquee-logo {
-  max-height: 64px;
+  max-height: 88px;
   max-width: 100%;
   width: auto;
   object-fit: contain;
@@ -628,8 +628,8 @@ h1, h2, h3, h4 {
   .feature-grid { grid-template-columns: repeat(2, 1fr); }
   .footer-top { grid-template-columns: 1.4fr 1fr; }
 
-  .logo-marquee-card { width: 168px; height: 96px; }
-  .logo-marquee-logo { max-height: 52px; }
+  .logo-marquee-card { width: 168px; height: 96px; padding: var(--sp-sm); }
+  .logo-marquee-logo { max-height: 72px; }
   .logo-marquee-track { animation-duration: 44s; }
 }
 
@@ -654,8 +654,8 @@ h1, h2, h3, h4 {
 
   .logo-marquee { margin-top: var(--sp-xl); padding-top: var(--sp-lg); }
   .logo-marquee-group { gap: var(--sp-md); padding-right: var(--sp-md); }
-  .logo-marquee-card { width: 128px; height: 76px; padding: var(--sp-sm); }
-  .logo-marquee-logo { max-height: 40px; }
+  .logo-marquee-card { width: 128px; height: 76px; padding: var(--sp-xs); }
+  .logo-marquee-logo { max-height: 56px; }
   .logo-marquee-track {
     animation-duration: 34s;
     mask-image: linear-gradient(to right, transparent 0, #000 32px, #000 calc(100% - 32px), transparent 100%);

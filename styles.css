@@ -80,7 +80,6 @@ section {
   padding: var(--sp-section) 0;
 }
 
-.hero-band { padding-bottom: var(--sp-xl); }
 #problem { padding-top: var(--sp-xl); padding-bottom: var(--sp-xl); }
 #framework { padding-top: var(--sp-xl); }
 .about-copy > *:last-child { margin-bottom: 0; }
@@ -250,6 +249,7 @@ h1, h2, h3, h4 {
 /* ---- Hero ---- */
 .hero-band {
   padding: var(--sp-section) 0;
+  padding-bottom: var(--sp-xl);
 }
 
 .hero-grid {

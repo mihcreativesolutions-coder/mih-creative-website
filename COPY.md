@@ -6,94 +6,194 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## Nav
 
-- The System
+- The MIH Framework
 - Services
 - About
 - Contact
 
-**CTA button:** Email Me
+**CTA:** Let's Talk
 
 ---
 
 ## Hero
 
-**Eyebrow:** MAKE IT HAPPEN Creative Solutions
+# Make It Happen
 
-# I never lacked ideas. I lacked a system for finishing.
+Ideas are easy.
 
-I'm Erik. The last note my father left me before he left this world was simple: make it happen. So let's do that.
+Building something people believe in takes clarity.
 
-**[Email Me]** **[See The System →]**
+I'm Erik. The last note my father left me before he passed away was simple:
+
+**Make it happen.**
+
+Over time, those three words became more than a reminder. They became the way I approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
+
+**CTA:** Let's Talk
+**Secondary CTA:** Explore the MIH Framework →
 
 ---
 
 ## The Problem
 
-### Unclear stories cost you more than you think.
+### Most organizations don't have a marketing problem.
 
-Your team explains the company differently depending on who's asking. Your website says one thing, your sales pitch says another. Investors walk away unsure, not because the work is weak, but because the story never landed.
+They have a clarity problem.
 
-A new logo won't fix that. A new website won't either. Design sharpens a story. It can't decide what the story is.
+Their website says one thing. Their team says another. Their audience is left trying to connect the dots.
 
-**This isn't a talent problem. It's a clarity problem.**
+When people don't understand what makes your work valuable, they hesitate.
+
+Customers hesitate.
+
+Partners hesitate.
+
+Investors hesitate.
+
+A new logo won't solve that.
+
+A new website won't either.
+
+Design can amplify a story.
+
+It can't define one.
 
 ---
 
-## The System
+## The MIH Framework
+
+Every project starts in the same place.
+
+Not with design.
+
+Not with marketing.
+
+With clarity.
+
+Everything we do moves through three simple stages.
+
+**Vision — Make It Clear.**
+Clarity comes first.
+Before we create anything, we define who you are, what you do, who you serve, and why it matters.
+When everyone is telling the same story, better decisions follow.
+
+**Experience — Make It Matter.**
+Bring that vision to life through every interaction.
+Your website, your content, your environment, your presentations, and the conversations your team has should all reinforce the same story.
+Because consistency builds trust.
+
+**Momentum — Make It Last.**
+Launching isn't the finish line.
+It's the starting point.
+We build the systems, tools, and creative rhythms that keep your organization moving forward so your message stays consistent as you grow.
+
+## Make It Clear.
+## Make It Matter.
+## Make It Last.
+
+---
+
+## What MIH Does
+
+Every project is different.
+
+The goal is always the same.
+
+Create clarity.
+
+Build trust.
+
+Generate momentum.
+
+Depending on where you are, MIH brings together the right people and disciplines to move the work forward.
 
 **Vision**
-Resolve who you are. One narrative, repeatable by anyone on your team.
+- Brand Strategy
+- Messaging
+- Positioning
+- Naming
+- Brand Identity
 
 **Experience**
-Make it felt. Your site, your pitch, your space, all saying the same thing.
+- Website Design
+- Environmental Branding
+- Photography
+- Video Production
+- Graphic Design
+- Campaign Development
 
 **Momentum**
-Make it last. Playbooks and rhythms that keep it running without me.
+- Content Strategy
+- Social Media
+- Marketing Support
+- Brand Standards
+- Ongoing Creative Partnership
 
-People don't invest in what they don't understand. Before someone buys into your business, they have to buy into your story.
+I don't pretend to do everything myself.
 
----
+The best work comes from collaboration.
 
-## What I Do
-
-### There is no "i" in MIH.
-
-I've worn a lot of hats over the years. None fit perfectly. But they taught me one thing: the best work never comes from one person doing everything.
-
-So instead of stacking titles, I built a network. When a project needs a skill I don't have, I already know who to call.
-
-**Services:**
-
-- **Brand Identity & Design** — Logos, visual systems, and brand guidelines that make a company instantly recognizable. Every future asset has a consistent foundation to build from.
-- **Web Design & Development** — Fast, responsive websites and landing pages built to convert visitors, not just look good in a portfolio.
-- **Marketing & Content Strategy** — Positioning, copywriting, and campaign planning that gives your message a clear, consistent voice across every channel.
-- **Video & Photo Production** — Product shoots, brand films, and social-ready video content, shot and edited for how people actually watch today.
-- **Social & Campaign Management** — Content calendars, community management, and paid campaigns that keep a brand active and on-message every week.
-- **Creative Strategy & Consulting** — An outside eye on your creative direction before you spend a budget on execution that doesn't fit the goal.
+Over the years I've built a trusted network of photographers, designers, developers, writers, filmmakers, strategists, and specialists. Every project gets the right people for the work, not simply who's available.
 
 ---
 
-## Why I Started MIH
+## About
 
-### The What was never the problem.
+### The what was never the problem.
 
-I've spent years moving across nearly every creative discipline there is: photography, music, design, web, content, copy, video, talent, events. Ideas were never the issue. I always knew what I wanted to build.
+I've spent years working across photography, music, design, web, content, copywriting, video, events, and branding.
 
-The problem showed up later. I didn't know why I was building it, or how long it should actually take. So I'd get partway there, convince myself I wasn't ready, and go pick up a new venture instead of finishing the one in front of me. It looked like ambition. It was actually avoidance. Not a lack of ability. A lack of a system.
+The ideas were never the hard part.
 
-**MIH is that system.**
+The hard part was finishing.
 
-It's how I take a vision from idea to delivery, and keep it alive past launch. Now I build it for you too.
+I'd get halfway through something, convince myself it wasn't ready, and move on to the next idea.
 
-**Photo caption:** That's me in the beanie. This is my typical stance when things are going right...
+It looked like ambition.
+
+It was actually avoidance.
+
+Not because I lacked talent.
+
+Because I lacked a system.
+
+**MIH became that system.**
+
+Today it's the same framework I use to help founders, nonprofits, businesses, and communities build organizations that people understand, remember, and believe in.
+
+**Photo caption:** That's me. Usually standing back long enough to see the whole picture.
+
+---
+
+## Who I Work With
+
+MIH partners with founders, nonprofits, entrepreneurs, and organizations that have outgrown the way they've been telling their story.
+
+Some are just getting started.
+
+Others have been doing great work for years but struggle to explain why it matters.
+
+The goal is always the same.
+
+Create clarity.
+
+Build confidence.
+
+Keep moving forward.
 
 ---
 
 ## Closing CTA
 
-## Let's build something worth being proud of.
+## Let's Make It Happen.
 
-Tell me what you're building and who it's for. I'll reply within one business day.
+Tell me what you're building.
+
+Tell me where you're stuck.
+
+Tell me where you want to go.
+
+We'll figure out the clearest path forward together.
 
 **mihcreativesolutions@gmail.com**
 
@@ -102,10 +202,13 @@ Tell me what you're building and who it's for. I'll reply within one business da
 ## Footer
 
 **MIH Creative Solutions**
-Vision. Experience. Momentum.
 
-**Site:** The System · Services · About · Contact
-**Contact:** mihcreativesolutions@gmail.com
+**The MIH Framework**
+- Vision — Make It Clear.
+- Experience — Make It Matter.
+- Momentum — Make It Last.
+
+**Navigation:** The MIH Framework · Services · About · Contact
 
 © MIH Creative Solutions. All rights reserved.
 
@@ -113,6 +216,6 @@ Vision. Experience. Momentum.
 
 ## SEO / Meta (not visible on page)
 
-**Page title:** MIH Creative Solutions: Vision, Experience, Momentum
+**Page title:** MIH Creative Solutions: Make It Clear, Make It Matter, Make It Last
 
-**Meta description:** MIH Creative Solutions is Erik's system for taking a vision from idea to delivery, and keeping it alive past launch: Vision, Experience, Momentum.
+**Meta description:** MIH Creative Solutions is Erik's framework for building organizations people understand, remember, and believe in: Vision, Experience, Momentum.

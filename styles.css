@@ -367,60 +367,6 @@ h1, h2, h3, h4 {
   letter-spacing: -0.3px;
 }
 
-/* ---- Why MIH (value props) ---- */
-.value-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--sp-lg);
-}
-
-.value-card {
-  background: var(--canvas);
-  border: 1px solid var(--hairline);
-  border-radius: var(--r-lg);
-  padding: var(--sp-lg);
-}
-
-.value-card .badge-pill { margin-bottom: var(--sp-md); }
-
-.value-card h3 { font-size: 16px; margin-bottom: var(--sp-xs); }
-.value-card p { margin: 0; font-size: 15px; color: var(--body); }
-
-.badge-pill {
-  display: inline-block;
-  background: var(--surface-card);
-  color: var(--ink);
-  font-size: 13px;
-  font-weight: 500;
-  padding: 4px 12px;
-  border-radius: var(--r-pill);
-}
-
-/* ---- Process ---- */
-.process-list {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: var(--sp-lg);
-}
-
-.process-step {
-  padding: var(--sp-lg) 0 0;
-  border-top: 1px solid var(--hairline);
-}
-
-.process-step .step-number {
-  font-family: var(--font-display);
-  font-size: 40px;
-  font-weight: 500;
-  letter-spacing: -1px;
-  color: var(--muted-soft);
-  display: block;
-  margin-bottom: var(--sp-md);
-}
-
-.process-step h3 { font-size: 18px; margin-bottom: var(--sp-xs); }
-.process-step p { margin: 0; font-size: 15px; color: var(--body); }
-
 /* ---- CTA band ---- */
 .cta-band-illustrated {
   background: var(--surface-soft);
@@ -506,7 +452,6 @@ h1, h2, h3, h4 {
   .display-lg { font-size: 44px; letter-spacing: -1.5px; }
   .hero-grid { gap: var(--sp-xl); }
   .feature-grid { grid-template-columns: repeat(2, 1fr); }
-  .process-list { grid-template-columns: repeat(2, 1fr); }
   .footer-top { grid-template-columns: 1.4fr 1fr 1fr; }
 }
 
@@ -526,8 +471,6 @@ h1, h2, h3, h4 {
   .hero-illustration-card { order: -1; aspect-ratio: 16 / 10; }
 
   .feature-grid { grid-template-columns: 1fr; }
-  .value-grid { grid-template-columns: 1fr; }
-  .process-list { grid-template-columns: 1fr; }
 
   .footer-top { grid-template-columns: 1fr; gap: var(--sp-xl); }
   .cta-band-illustrated { padding: 48px var(--sp-lg); }

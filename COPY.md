@@ -17,9 +17,7 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## Hero
 
-# Make It Happen
-
-**Having an idea is the easy part.** (big)
+# Having an idea is the easy part.
 
 **Building something people believe in takes hard work.** (medium, bold)
 

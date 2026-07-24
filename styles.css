@@ -259,14 +259,14 @@ h1, h2, h3, h4 {
   align-items: center;
 }
 
-.hero-copy { max-width: 820px; }
+.hero-copy { max-width: 1040px; }
 
 .hero-copy .caption-uppercase { margin-bottom: var(--sp-md); display: block; }
 
 .hero-copy h1 { margin-bottom: var(--sp-lg); }
 
 .hero-copy p {
-  max-width: 46ch;
+  max-width: 620px;
   margin: 0 0 var(--sp-xl);
 }
 

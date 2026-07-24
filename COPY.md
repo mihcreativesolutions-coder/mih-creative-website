@@ -23,7 +23,7 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 We're here to provide clarity in that work.
 
-I'm Erik. The last note my father left me before he passed away was simple:
+I'm Erik. The last note my father left me was simple:
 
 [Handwritten "Make it happen" mark — image, not text]
 

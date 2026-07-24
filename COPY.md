@@ -29,8 +29,7 @@ I'm Erik. The last note my father left me was simple:
 
 Over time, those three words became more than a reminder. They became the way I approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
 
-**CTA:** Let's Talk
-**Secondary CTA:** Explore the MIH Framework →
+**Logo marquee — "Brands I've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, Sacramento Republic FC, Craftsmen Decks & Structures, Prince, Paisley Park)
 
 ---
 

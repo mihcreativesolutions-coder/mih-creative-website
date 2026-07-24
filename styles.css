@@ -332,6 +332,58 @@ h1, h2, h3, h4 {
   object-fit: contain;
 }
 
+/* ---- Video marquee (portrait clips, autoplay/muted/loop) ---- */
+.video-marquee {
+  margin-top: var(--sp-xl);
+  padding-top: var(--sp-lg);
+  overflow: hidden;
+}
+
+.video-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee-scroll 40s linear infinite;
+  mask-image: linear-gradient(to right, transparent 0, #000 64px, #000 calc(100% - 64px), transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0, #000 64px, #000 calc(100% - 64px), transparent 100%);
+}
+
+.video-marquee-group {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-lg);
+  padding-right: var(--sp-lg);
+}
+
+.video-marquee-card {
+  width: 203px;
+  height: 360px;
+  flex-shrink: 0;
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  background: #000;
+}
+
+.video-marquee-card video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+@media (max-width: 1024px) {
+  .video-marquee-card { width: 169px; height: 300px; }
+}
+
+@media (max-width: 768px) {
+  .video-marquee-group { gap: var(--sp-md); padding-right: var(--sp-md); }
+  .video-marquee-card { width: 124px; height: 220px; }
+  .video-marquee-track {
+    animation-duration: 30s;
+    mask-image: linear-gradient(to right, transparent 0, #000 32px, #000 calc(100% - 32px), transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0, #000 32px, #000 calc(100% - 32px), transparent 100%);
+  }
+}
+
 @keyframes marquee-scroll {
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }

@@ -53,21 +53,22 @@ MIH moves through three simple stages.
 
 ## The MIH Framework
 
-**Vision — Make It Clear.**
+**Vision**
 Clarity comes first.
 Before we create anything, we define who you are, what you do, who you serve, and why it matters.
 When everyone is telling the same story, better decisions follow.
 
-**Experience — Make It Matter.**
+**Experience**
 Bring that vision to life through every interaction.
 Your website, your content, your environment, your presentations, and the conversations your team has should all reinforce the same story.
 Because consistency builds trust.
 
-**Momentum — Make It Last.**
+**Momentum**
 Launching isn't the finish line.
 It's the starting point.
 We build the systems, tools, and creative rhythms that keep your organization moving forward so your message stays consistent as you grow.
 
+Recap row (each aligned under its corresponding card above):
 ## Make It Clear.
 ## Make It Matter.
 ## Make It Last.

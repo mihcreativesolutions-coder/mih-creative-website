@@ -80,8 +80,10 @@ section {
   padding: var(--sp-section) 0;
 }
 
-#problem { padding-bottom: var(--sp-xl); }
+.hero-band { padding-bottom: var(--sp-xl); }
+#problem { padding-top: var(--sp-xl); padding-bottom: var(--sp-xl); }
 #framework { padding-top: var(--sp-xl); }
+.about-copy > *:last-child { margin-bottom: 0; }
 
 /* ---- Typography ---- */
 h1, h2, h3, h4 {
@@ -401,12 +403,14 @@ h1, h2, h3, h4 {
 .pillar-label {
   display: block;
   font-family: var(--font-body);
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
-  opacity: 0.65;
 }
+
+.feature-card.on-dark .pillar-label { color: var(--on-dark); }
+.feature-card.on-ink .pillar-label { color: var(--ink); }
 
 .offering-list {
   list-style: none;
@@ -431,12 +435,8 @@ h1, h2, h3, h4 {
 }
 
 .pillars-recap {
-  display: flex;
-  flex-direction: column;
-  gap: var(--sp-xs);
   text-align: center;
-  max-width: 720px;
-  margin: var(--sp-xxl) auto 0;
+  margin-top: var(--sp-xl);
 }
 
 .card-pink { background: var(--brand-pink); }
@@ -648,7 +648,7 @@ h1, h2, h3, h4 {
   .display-lg { font-size: 32px; letter-spacing: -1px; }
   .display-md { font-size: 28px; letter-spacing: -0.5px; }
 
-  .hero-grid { grid-template-columns: 1fr; }
+  .hero-grid { grid-template-columns: 1fr; gap: var(--sp-lg); }
 
   .feature-grid { grid-template-columns: 1fr; }
 

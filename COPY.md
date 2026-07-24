@@ -27,9 +27,9 @@ I'm Erik. The last note my father left me was simple:
 
 [Handwritten "Make it happen" mark — image, not text]
 
-Over time, those three words became more than a reminder. They became the way I approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
+Over time, those three words became more than a reminder. They became the way we approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
 
-**Logo marquee — "Brands I've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, Sacramento Republic FC, Craftsmen Decks & Structures, Prince, Paisley Park)
+**Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, Sacramento Republic FC, Craftsmen Decks & Structures, Prince, Paisley Park)
 
 ---
 
@@ -111,11 +111,11 @@ Depending on where you are, MIH brings together the right people and disciplines
 - Brand Standards
 - Ongoing Creative Partnership
 
-I don't pretend to do everything myself.
+We don't pretend to do everything ourselves.
 
 The best work comes from collaboration.
 
-Over the years I've built a trusted network of photographers, designers, developers, writers, filmmakers, strategists, and specialists. Every project gets the right people for the work, not simply who's available.
+Over the years we've built a trusted network of photographers, designers, developers, writers, filmmakers, strategists, and specialists. Every project gets the right people for the work, not simply who's available.
 
 ---
 
@@ -123,31 +123,31 @@ Over the years I've built a trusted network of photographers, designers, develop
 
 ### The what was never the problem.
 
-I've spent years working across photography, music, design, web, content, copywriting, video, events, and branding.
+We've spent years working across photography, music, design, web, content, copywriting, video, events, and branding.
 
 The ideas were never the hard part.
 
 The hard part was finishing.
 
-I'd get halfway through something, convince myself it wasn't ready, and move on to the next idea.
+We'd get halfway through something, convince ourselves it wasn't ready, and move on to the next idea.
 
 It looked like ambition.
 
 It was actually avoidance.
 
-Not because I lacked talent.
+Not because we lacked talent.
 
-Because I lacked a system.
+Because we lacked a system.
 
 **MIH became that system.**
 
-Today it's the same framework I use to help founders, nonprofits, businesses, and communities build organizations that people understand, remember, and believe in.
+Today it's the same framework we use to help founders, nonprofits, businesses, and communities build organizations that people understand, remember, and believe in.
 
 **Photo caption:** That's me. Usually standing back long enough to see the whole picture.
 
 ---
 
-## Who I Work With
+## Who We Work With
 
 MIH partners with founders, nonprofits, entrepreneurs, and organizations that have outgrown the way they've been telling their story.
 
@@ -169,11 +169,11 @@ Keep moving forward.
 
 ## Let's Make It Happen.
 
-Tell me what you're building.
+Tell us what you're building.
 
-Tell me where you're stuck.
+Tell us where you're stuck.
 
-Tell me where you want to go.
+Tell us where you want to go.
 
 We'll figure out the clearest path forward together.
 

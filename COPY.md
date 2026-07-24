@@ -39,8 +39,6 @@ Over time, those three words became more than a reminder. They became the way I 
 
 They have a clarity problem.
 
-Their website says one thing. Their team says another. Their audience is left trying to connect the dots.
-
 When people don't understand what makes your work valuable, they hesitate.
 
 Customers hesitate.
@@ -49,27 +47,11 @@ Partners hesitate.
 
 Investors hesitate.
 
-A new logo won't solve that.
-
-A new website won't either.
-
-Design can amplify a story.
-
-It can't define one.
+MIH moves through three simple stages.
 
 ---
 
 ## The MIH Framework
-
-Every project starts in the same place.
-
-Not with design.
-
-Not with marketing.
-
-With clarity.
-
-Everything we do moves through three simple stages.
 
 **Vision — Make It Clear.**
 Clarity comes first.

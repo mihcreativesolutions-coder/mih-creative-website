@@ -27,7 +27,7 @@ We're here to provide clarity in that work.
 
 I'm Erik. The last note my father left me before he passed away was simple:
 
-**Make it happen.**
+[Handwritten "Make it happen" mark — image, not text]
 
 Over time, those three words became more than a reminder. They became the way I approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
 

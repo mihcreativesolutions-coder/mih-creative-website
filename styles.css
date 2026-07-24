@@ -416,6 +416,14 @@ h1, h2, h3, h4 {
   margin: var(--sp-xl) 0 0;
 }
 
+.handwritten-mark {
+  width: 260px;
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: var(--sp-xl) 0 0;
+}
+
 /* ---- About photo ---- */
 .about-photo {
   display: flex;

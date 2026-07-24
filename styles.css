@@ -353,6 +353,28 @@ h1, h2, h3, h4 {
   margin: var(--sp-xl) 0 0;
 }
 
+/* ---- About photo ---- */
+.about-photo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-md);
+}
+
+.about-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--r-xl);
+  display: block;
+  object-fit: cover;
+}
+
+.photo-caption {
+  font-size: 14px;
+  font-style: italic;
+  color: var(--muted);
+  margin: 0;
+}
+
 .pillars-closing {
   max-width: 720px;
   margin: var(--sp-xxl) auto 0;

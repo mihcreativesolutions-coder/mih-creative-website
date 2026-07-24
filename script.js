@@ -35,3 +35,13 @@ if ('IntersectionObserver' in window) {
 } else {
   revealTargets.forEach((el) => el.classList.add('is-visible'));
 }
+
+document.querySelectorAll('.pillar-flip').forEach((card) => {
+  card.addEventListener('click', () => card.classList.toggle('is-flipped'));
+  card.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      card.classList.toggle('is-flipped');
+    }
+  });
+});

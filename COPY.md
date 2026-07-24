@@ -57,20 +57,41 @@ MIH moves through three simple stages.
 
 ## The MIH Framework
 
-**Vision**
+Each card below is a flip card: front shows the pillar description, hover (desktop) or tap (mobile) flips it to show what MIH actually delivers for that pillar. A "What this includes →" cue on the front signals the interaction.
+
+**Vision** (front)
 Clarity comes first.
 Before we create anything, we define who you are, what you do, who you serve, and why it matters.
 When everyone is telling the same story, better decisions follow.
+— flips to (back) —
+- Brand Strategy
+- Messaging
+- Positioning
+- Naming
+- Brand Identity
 
-**Experience**
+**Experience** (front)
 Bring that vision to life through every interaction.
 Your website, your content, your environment, your presentations, and the conversations your team has should all reinforce the same story.
 Because consistency builds trust.
+— flips to (back) —
+- Website Design
+- Environmental Branding
+- Photography
+- Video Production
+- Graphic Design
+- Campaign Development
 
-**Momentum**
+**Momentum** (front)
 Launching isn't the finish line.
 It's the starting point.
 We build the systems, tools, and creative rhythms that keep your organization moving forward so your message stays consistent as you grow.
+— flips to (back) —
+- Content Strategy
+- Social Media
+- Marketing Support
+- Brand Standards
+- Ongoing Creative Partnership
 
 Recap row (each aligned under its corresponding card above):
 ## Make It Clear.
@@ -93,27 +114,7 @@ Generate momentum.
 
 Depending on where you are, MIH brings together the right people and disciplines to move the work forward.
 
-**Vision**
-- Brand Strategy
-- Messaging
-- Positioning
-- Naming
-- Brand Identity
-
-**Experience**
-- Website Design
-- Environmental Branding
-- Photography
-- Video Production
-- Graphic Design
-- Campaign Development
-
-**Momentum**
-- Content Strategy
-- Social Media
-- Marketing Support
-- Brand Standards
-- Ongoing Creative Partnership
+(The Vision/Experience/Momentum service breakdowns that used to live here now live on the back of the flip cards in The MIH Framework section above.)
 
 We don't pretend to do everything ourselves.
 

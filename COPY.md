@@ -31,6 +31,8 @@ Over time, those three words became more than a reminder. They became the way we
 
 **Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, Sacramento Republic FC, Craftsmen Decks & Structures, Prince, Paisley Park)
 
+**Featured video** (standalone widescreen 16:9 clip, autoplay/muted/loop, right under the logo marquee): Barbie x Love Your Melon campaign spot.
+
 ---
 
 ## The Problem
@@ -46,6 +48,8 @@ Customers hesitate.
 Partners hesitate.
 
 Investors hesitate.
+
+**Video marquee** (scrolling row of portrait 9:16 client clips, autoplay/muted/loop): Gravity, Isabel Bootcamp, Knee Wrap, Mechanic Peter, Elijah Yoga.
 
 MIH moves through three simple stages.
 

@@ -265,6 +265,18 @@ h1, h2, h3, h4 {
   margin: 0 0 var(--sp-xl);
 }
 
+.hero-tagline {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-sm);
+  margin: 0 0 var(--sp-xl);
+}
+
+.hero-tagline p {
+  max-width: 620px;
+  margin: 0;
+}
+
 .hero-actions { display: flex; align-items: center; gap: var(--sp-lg); flex-wrap: wrap; }
 
 /* ---- Section headers ---- */

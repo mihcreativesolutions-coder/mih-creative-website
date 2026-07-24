@@ -19,9 +19,11 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 # Make It Happen
 
-Ideas are easy.
+**Having an idea is the easy part.** (big)
 
-Building something people believe in takes clarity.
+**Building something people believe in takes hard work.** (medium, bold)
+
+We're here to provide clarity in that work.
 
 I'm Erik. The last note my father left me before he passed away was simple:
 

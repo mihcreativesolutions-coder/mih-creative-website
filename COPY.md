@@ -107,24 +107,6 @@ Over the years we've built a trusted network of photographers, designers, develo
 
 ## About
 
-### The what was never the problem.
-
-We've spent years working across photography, music, design, web, content, copywriting, video, events, and branding.
-
-The ideas were never the hard part.
-
-The hard part was finishing.
-
-We'd get halfway through something, convince ourselves it wasn't ready, and move on to the next idea.
-
-It looked like ambition.
-
-It was actually avoidance.
-
-Not because we lacked talent.
-
-Because we lacked a system.
-
 **MIH became that system.**
 
 Today it's the same framework we use to help founders, nonprofits, businesses, and communities build organizations that people understand, remember, and believe in.

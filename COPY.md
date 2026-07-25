@@ -107,6 +107,8 @@ Over the years we've built a trusted network of photographers, designers, develo
 
 ## About
 
+A system carries what your mind shouldn't have to. That's how ideas become finished work.
+
 **MIH became that system.**
 
 Today it's the same framework we use to help founders, nonprofits, businesses, and communities build organizations that people understand, remember, and believe in.

@@ -139,11 +139,6 @@ We'll figure out the clearest path forward together.
 
 **MIH Creative Solutions**
 
-**The MIH Framework**
-- Vision — Make It Clear.
-- Experience — Make It Matter.
-- Momentum — Make It Last.
-
 **Navigation:** Services · About · Contact
 
 © MIH Creative Solutions. All rights reserved.

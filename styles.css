@@ -82,6 +82,7 @@ section {
 
 #problem { padding-top: var(--sp-xl); padding-bottom: var(--sp-xl); }
 #framework { padding-top: var(--sp-xl); }
+#who-i-work-with { padding: 48px 0; }
 .about-copy > *:last-child { margin-bottom: 0; }
 
 /* ---- Typography ---- */

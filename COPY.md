@@ -117,12 +117,6 @@ MIH is here to help founders, nonprofits, businesses, and communities build bran
 
 MIH partners with founders, nonprofits, entrepreneurs, and organizations that have outgrown the way they've been telling their story.
 
-Create clarity.
-
-Build confidence.
-
-Keep moving forward.
-
 ---
 
 ## Closing CTA

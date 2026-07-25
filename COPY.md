@@ -40,8 +40,6 @@ Over time, those three words became more than a reminder. They became the way we
 
 They have a clarity problem.
 
-**Featured video** (standalone widescreen 16:9 clip, autoplay/muted/loop, same layout as the Love Your Melon video): clarity-problem.mp4.
-
 When people don't understand what makes your work valuable, they hesitate.
 
 Customers hesitate.

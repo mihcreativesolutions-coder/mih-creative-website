@@ -28,7 +28,13 @@ I'm Erik. The last note my father left me was simple:
 
 [Handwritten "Make it happen" mark — image, not text]
 
-Over time, those three words became more than a reminder. They became the way we approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
+Over time, those three words became more than a reminder. They became the way we approach every project:
+
+Bring clarity to the vision.
+
+Create experiences people connect with.
+
+Build the momentum to keep it moving.
 
 **Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures, Prince, Paisley Park)
 

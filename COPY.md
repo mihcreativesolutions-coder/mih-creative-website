@@ -111,7 +111,7 @@ A system carries what your mind shouldn't have to. That's how ideas become finis
 
 **MIH became that system.**
 
-Today it's the same framework we use to help founders, nonprofits, businesses, and communities build organizations that people understand, remember, and believe in.
+MIH is here to help founders, nonprofits, businesses, and communities build brands that people understand, remember, and believe in.
 
 **Photo caption:** That's me. Usually standing back long enough to see the whole picture.
 

@@ -648,10 +648,13 @@ h1, h2, h3, h4 {
   font-family: 'Caveat', cursive;
   font-size: 32px;
   font-weight: 700;
+  line-height: 1;
   color: #fff;
   white-space: nowrap;
   transform: rotate(-4deg);
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+  background: rgba(20, 18, 15, 0.6);
+  padding: 6px 14px 8px;
+  border-radius: var(--r-pill);
   pointer-events: none;
 }
 

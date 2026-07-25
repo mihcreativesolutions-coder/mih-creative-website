@@ -651,11 +651,17 @@ h1, h2, h3, h4 {
   line-height: 1;
   color: #fff;
   white-space: nowrap;
+  text-decoration: none;
   transform: rotate(-4deg);
   background: rgba(20, 18, 15, 0.6);
   padding: 6px 14px 8px;
   border-radius: var(--r-pill);
-  pointer-events: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.erik-handle:hover {
+  background: rgba(20, 18, 15, 0.8);
 }
 
 .photo-caption {

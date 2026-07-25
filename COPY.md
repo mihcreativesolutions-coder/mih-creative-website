@@ -6,7 +6,6 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## Nav
 
-- The MIH Framework
 - Services
 - About
 - Contact
@@ -55,7 +54,7 @@ MIH moves through three simple stages.
 
 ---
 
-## The MIH Framework
+## Services (leads directly into the 3 pillars)
 
 Each card below is a flip card: front shows the pillar description, hover (desktop) or tap (mobile) flips it to show what MIH actually delivers for that pillar. A "What this includes →" cue on the front signals the interaction.
 
@@ -97,12 +96,6 @@ Recap row (each aligned under its corresponding card above):
 ## Make It Clear.
 ## Make It Matter.
 ## Make It Last.
-
----
-
-## What MIH Does
-
-(The Vision/Experience/Momentum service breakdowns that used to live here now live on the back of the flip cards in The MIH Framework section above.)
 
 We don't pretend to do everything ourselves.
 
@@ -183,7 +176,7 @@ We'll figure out the clearest path forward together.
 - Experience — Make It Matter.
 - Momentum — Make It Last.
 
-**Navigation:** The MIH Framework · Services · About · Contact
+**Navigation:** Services · About · Contact
 
 © MIH Creative Solutions. All rights reserved.
 

@@ -137,12 +137,6 @@ Today it's the same framework we use to help founders, nonprofits, businesses, a
 
 MIH partners with founders, nonprofits, entrepreneurs, and organizations that have outgrown the way they've been telling their story.
 
-Some are just getting started.
-
-Others have been doing great work for years but struggle to explain why it matters.
-
-The goal is always the same.
-
 Create clarity.
 
 Build confidence.

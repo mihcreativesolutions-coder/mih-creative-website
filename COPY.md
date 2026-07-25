@@ -16,6 +16,8 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## Hero
 
+**Intro video** (widescreen 16:9 clip, autoplay/muted/loop, right above the headline): hero-intro.mp4.
+
 # Having an idea is the easy part.
 
 **Building something people believe in takes hard work.** (medium, bold)

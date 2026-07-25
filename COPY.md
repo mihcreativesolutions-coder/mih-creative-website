@@ -97,12 +97,6 @@ Recap row (each aligned under its corresponding card above):
 ## Make It Matter.
 ## Make It Last.
 
-We don't pretend to do everything ourselves.
-
-The best work comes from collaboration.
-
-Over the years we've built a trusted network of photographers, designers, developers, writers, filmmakers, strategists, and specialists. Every project gets the right people for the work, not simply who's available.
-
 ---
 
 ## About

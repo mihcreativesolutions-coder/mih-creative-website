@@ -113,7 +113,9 @@ A system carries what your mind shouldn't have to. That's how ideas become finis
 
 MIH is here to help founders, nonprofits, businesses, and communities build brands that people understand, remember, and believe in.
 
-**Photo caption:** That's me. Usually standing back long enough to see the whole picture.
+**Photo caption:** That's me in my natural habitat.
+
+**Photo overlay:** Hand-drawn arrow pointing to Erik (beanie, arms crossed) with Instagram handle "@makeithappenerik" annotated next to it.
 
 ---
 

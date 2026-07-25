@@ -102,18 +102,6 @@ Recap row (each aligned under its corresponding card above):
 
 ## What MIH Does
 
-Every project is different.
-
-The goal is always the same.
-
-Create clarity.
-
-Build trust.
-
-Generate momentum.
-
-Depending on where you are, MIH brings together the right people and disciplines to move the work forward.
-
 (The Vision/Experience/Momentum service breakdowns that used to live here now live on the back of the flip cards in The MIH Framework section above.)
 
 We don't pretend to do everything ourselves.

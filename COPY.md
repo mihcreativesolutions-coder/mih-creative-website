@@ -30,7 +30,7 @@ I'm Erik. The last note my father left me was simple:
 
 Over time, those three words became more than a reminder. They became the way we approach every project. Help people get clear on what they're building, create experiences that people connect with, and build the momentum to keep it moving.
 
-**Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, Sacramento Republic FC, Craftsmen Decks & Structures, Prince, Paisley Park)
+**Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures, Prince, Paisley Park)
 
 **Featured video** (standalone widescreen 16:9 clip, autoplay/muted/loop, right under the logo marquee): Barbie x Love Your Melon campaign spot.
 

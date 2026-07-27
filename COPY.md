@@ -121,15 +121,9 @@ MIH is here to help founders, nonprofits, businesses, and communities build bran
 
 ---
 
-## Who We Work With
+## Our Team
 
-Two decades building a network of serious creative talent.
-
-We wear a lot of hats.
-
-But the best person for the job is the one who leads with passion.
-
-That's who we work with.
+We do wear a lot of hats, but at MIH, we believe the best person for the job is the one who leads with passion. After two decades in the creative services industry, we have the perfect person for the job.
 
 ---
 

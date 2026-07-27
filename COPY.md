@@ -123,7 +123,13 @@ MIH is here to help founders, nonprofits, businesses, and communities build bran
 
 ## Who We Work With
 
-MIH partners with founders, nonprofits, entrepreneurs, and organizations that have outgrown the way they've been telling their story.
+Two decades building a network of serious creative talent.
+
+We wear a lot of hats.
+
+But the best person for the job is the one who leads with passion.
+
+That's who we work with.
 
 ---
 

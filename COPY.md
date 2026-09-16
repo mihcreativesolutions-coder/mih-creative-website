@@ -36,8 +36,6 @@ Create experiences people connect with.
 
 Build the momentum to keep it moving.
 
-**Process flow graphic** (decorative, right after the cadence above): three connected nodes — Vision (lavender) → Experience (teal) → Momentum (ochre) — with an animated pulse continuously traveling between them, giving an at-a-glance visual of the process before scrolling further.
-
 **Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures, Prince, Paisley Park)
 
 **Featured video** (standalone widescreen 16:9 clip, autoplay/muted/loop, right under the logo marquee): Barbie x Love Your Melon campaign spot.

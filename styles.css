@@ -81,8 +81,8 @@ section {
 }
 
 #problem { padding-top: var(--sp-xl); padding-bottom: var(--sp-xl); }
-#services { padding-top: var(--sp-xl); padding-bottom: 48px; }
-#contact { padding-top: 48px; }
+#services { padding-top: var(--sp-xl); padding-bottom: var(--sp-xl); }
+#contact { padding-top: var(--sp-xl); }
 
 /* ---- Typography ---- */
 h1, h2, h3, h4 {

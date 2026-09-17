@@ -7,7 +7,6 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 ## Nav
 
 - Services
-- About
 - Contact
 
 **CTA:** Let's Talk
@@ -107,26 +106,6 @@ Recap row (each aligned under its corresponding card above):
 
 ---
 
-## About
-
-A system carries what your mind shouldn't have to. That's how ideas become finished work.
-
-**MIH became that system.**
-
-MIH is here to help founders, nonprofits, businesses, and communities build brands that people understand, remember, and believe in.
-
-**Photo caption:** That's me in my natural habitat.
-
-**Photo overlay:** Hand-drawn arrow pointing to Erik (beanie, arms crossed) with Instagram handle "@makeithappenerik" annotated next to it.
-
----
-
-## Our Team
-
-We do wear a lot of hats, but at MIH, we believe the best person for the job is the one who leads with passion. After two decades in the creative services industry, we have the perfect person for the job.
-
----
-
 ## Closing CTA
 
 ## Let's Make It Happen.
@@ -147,7 +126,7 @@ We'll figure out the clearest path forward together.
 
 **MIH Creative Solutions**
 
-**Navigation:** Services · About · Contact
+**Navigation:** Services · Contact
 
 © MIH Creative Solutions. All rights reserved.
 

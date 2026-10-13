@@ -253,6 +253,7 @@ h1, h2, h3, h4 {
 }
 
 .hero-video-bleed {
+  position: relative;
   width: 100%;
   aspect-ratio: 16 / 9;
   max-height: 640px;
@@ -266,6 +267,38 @@ h1, h2, h3, h4 {
   height: 100%;
   object-fit: cover;
   display: block;
+}
+
+.hero-video-overlay-text {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-md);
+  pointer-events: none;
+}
+
+.hero-video-overlay-text p {
+  margin: 0;
+  color: #fff;
+  font-family: var(--font-display);
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -1px;
+  text-align: center;
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.55);
+}
+
+@media (max-width: 1024px) {
+  .hero-video-overlay-text { gap: var(--sp-sm); }
+  .hero-video-overlay-text p { font-size: 28px; }
+}
+
+@media (max-width: 768px) {
+  .hero-video-overlay-text { gap: var(--sp-xs); }
+  .hero-video-overlay-text p { font-size: 18px; letter-spacing: -0.5px; }
 }
 
 .hero-copy { max-width: 1040px; }

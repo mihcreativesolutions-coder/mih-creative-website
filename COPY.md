@@ -15,7 +15,10 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## Hero
 
-**Intro video** (widescreen 16:9 clip, autoplay/muted/loop, right above the headline): hero-intro.mp4.
+**Intro video** (widescreen 16:9 clip, autoplay/muted/loop, right above the headline): hero-intro.mp4, with white text overlaid on top, centered:
+## Make It Clear.
+## Make It Matter.
+## Make It Last.
 
 # Having an idea is the easy part.
 

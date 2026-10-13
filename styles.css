@@ -270,7 +270,7 @@ h1, h2, h3, h4 {
   flex-wrap: wrap;
   gap: var(--sp-lg);
   text-align: center;
-  margin-top: var(--sp-section);
+  margin-top: var(--sp-xl);
   margin-bottom: var(--sp-xl);
 }
 

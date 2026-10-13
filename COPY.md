@@ -31,21 +31,23 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## The Problem
 
-### Most organizations don't have a marketing problem.
+Your organization doesn't have a marketing problem.
 
-They have a clarity problem.
+### It has a clarity problem.
 
-When people don't understand what makes your work valuable, they hesitate.
+When people don't see your value, they hesitate.
 
-Customers hesitate.
+Customers don't buy.
 
-Partners hesitate.
+Partners don't commit.
 
-Investors hesitate.
+Investors don't fund.
 
 **Video marquee** (scrolling row of portrait 9:16 client clips, autoplay/muted/loop): Gravity, Isabel Bootcamp, Knee Wrap, Mechanic Peter, Elijah Yoga.
 
-MIH moves through three simple stages.
+MIH brings clarity to your **vision**, elevates your **experience**, and builds **momentum** that lasts.
+
+Let's make it happen.
 
 ---
 

@@ -9,7 +9,7 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 - Services
 - Contact
 
-**CTA:** Let's Talk
+**CTA:** Let's Talk (mailto:erik@mihcreativesolutions.com)
 
 ---
 

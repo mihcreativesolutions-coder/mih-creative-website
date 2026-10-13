@@ -5,23 +5,26 @@
 
 :root {
   /* Color */
-  --primary: #0a0a0a;
-  --primary-active: #1f1f1f;
-  --primary-disabled: #e5e5e5;
-  --ink: #0a0a0a;
-  --body: #3a3a3a;
-  --body-strong: #1a1a1a;
-  --muted: #6a6a6a;
-  --muted-soft: #9a9a9a;
-  --hairline: #e5e5e5;
-  --hairline-soft: #f0f0f0;
-  --canvas: #fffaf0;
-  --surface-soft: #faf5e8;
-  --surface-card: #f5f0e0;
-  --surface-strong: #ebe6d6;
-  --on-primary: #ffffff;
+  --primary: #ffffff;
+  --primary-active: #e5e5e5;
+  --primary-disabled: #2a2a2a;
+  --ink: #ffffff;
+  --body: #c7c7c7;
+  --body-strong: #e8e8e8;
+  --muted: #9a9a9a;
+  --muted-soft: #6a6a6a;
+  --hairline: #2a2a2a;
+  --hairline-soft: #1c1c1c;
+  --canvas: #0a0a0a;
+  --surface-soft: #141414;
+  --surface-card: #1c1c1c;
+  --surface-strong: #242424;
+  --on-primary: #0a0a0a;
   --on-dark: #ffffff;
   --on-dark-soft: #a0a0a0;
+  /* Fixed dark text for use on light pillar-card backgrounds (lavender/ochre), independent of the page theme */
+  --card-ink: #0a0a0a;
+  --card-ink-body: #3a3a3a;
   --brand-pink: #ff4d8b;
   --brand-teal: #1a3a3a;
   --brand-lavender: #b8a4ed;
@@ -178,7 +181,7 @@ h1, h2, h3, h4 {
 .hero-nav .nav-links a { color: #fff; }
 .hero-nav .nav-links a:hover { color: var(--brand-ochre); }
 
-.hero-nav .btn-primary { background: #fff; color: var(--ink); }
+.hero-nav .btn-primary { background: #fff; color: var(--on-primary); }
 .hero-nav .btn-primary:hover, .hero-nav .btn-primary:active { background: var(--brand-ochre); }
 
 .hero-nav .nav-toggle span { background: #fff; }
@@ -354,7 +357,7 @@ h1, h2, h3, h4 {
 .logo-marquee {
   margin-top: var(--sp-xxl);
   padding-top: var(--sp-xl);
-  border-top: 1px solid rgba(20, 18, 15, 0.1);
+  border-top: 1px solid var(--hairline);
   overflow: hidden;
 }
 
@@ -632,9 +635,9 @@ h1, h2, h3, h4 {
 .feature-card.on-dark p { color: rgba(255, 255, 255, 0.88); }
 .feature-card.on-dark .offering-list li { color: rgba(255, 255, 255, 0.88); }
 
-.feature-card.on-ink, .feature-card.on-ink h3 { color: var(--ink); }
-.feature-card.on-ink p { color: var(--body); }
-.feature-card.on-ink .offering-list li { color: var(--body); }
+.feature-card.on-ink, .feature-card.on-ink h3 { color: var(--card-ink); }
+.feature-card.on-ink p { color: var(--card-ink-body); }
+.feature-card.on-ink .offering-list li { color: var(--card-ink-body); }
 
 .pillar-heading {
   display: flex;
@@ -652,7 +655,7 @@ h1, h2, h3, h4 {
 }
 
 .feature-card.on-dark .pillar-label { color: var(--on-dark); }
-.feature-card.on-ink .pillar-label { color: var(--ink); }
+.feature-card.on-ink .pillar-label { color: var(--card-ink); }
 
 .offering-list {
   list-style: none;

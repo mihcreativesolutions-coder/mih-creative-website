@@ -28,5 +28,5 @@ This is a static site, so it can be hosted as-is on GitHub Pages, Netlify, Verce
 
 ## Content notes
 
-- Contact CTA is a single `mailto:mihcreativesolutions@gmail.com` link (per request — no contact form).
+- Contact CTA is a single `mailto:erik@mihcreativesolutions.com` link (per request — no contact form).
 - No testimonials are included since none were provided; add real client quotes to the "Why MIH" or a new testimonials section once available.

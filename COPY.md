@@ -119,7 +119,7 @@ Tell us where you want to go.
 
 We'll figure out the clearest path forward together.
 
-**mihcreativesolutions@gmail.com**
+**erik@mihcreativesolutions.com**
 
 ---
 

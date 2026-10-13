@@ -504,9 +504,13 @@ h1, h2, h3, h4 {
   letter-spacing: -2.5px;
 }
 
-#problem .cadence p:nth-child(1) { font-size: 20px; }
-#problem .cadence p:nth-child(2) { font-size: 26px; }
-#problem .cadence p:nth-child(3) { font-size: 32px; font-weight: 600; color: var(--ink); }
+#problem .cadence p {
+  font-family: var(--font-display);
+  letter-spacing: -0.5px;
+}
+#problem .cadence p:nth-child(1) { font-size: 18px; font-weight: 400; color: var(--muted); }
+#problem .cadence p:nth-child(2) { font-size: 30px; font-weight: 500; color: var(--body-strong); }
+#problem .cadence p:nth-child(3) { font-size: 50px; font-weight: 600; color: var(--ink); letter-spacing: -1.5px; }
 
 .problem-transition .emph-word {
   font-size: 1.5em;
@@ -525,17 +529,17 @@ h1, h2, h3, h4 {
 @media (max-width: 1024px) {
   .problem-statement-setup { font-size: 24px; }
   .problem-statement-payoff { font-size: 60px; letter-spacing: -2px; }
-  #problem .cadence p:nth-child(1) { font-size: 17px; }
-  #problem .cadence p:nth-child(2) { font-size: 21px; }
-  #problem .cadence p:nth-child(3) { font-size: 25px; }
+  #problem .cadence p:nth-child(1) { font-size: 16px; }
+  #problem .cadence p:nth-child(2) { font-size: 25px; }
+  #problem .cadence p:nth-child(3) { font-size: 40px; letter-spacing: -1px; }
 }
 
 @media (max-width: 768px) {
   .problem-statement-setup { font-size: 19px; }
   .problem-statement-payoff { font-size: 38px; letter-spacing: -1px; }
   #problem .cadence p:nth-child(1) { font-size: 15px; }
-  #problem .cadence p:nth-child(2) { font-size: 18px; }
-  #problem .cadence p:nth-child(3) { font-size: 21px; }
+  #problem .cadence p:nth-child(2) { font-size: 21px; }
+  #problem .cadence p:nth-child(3) { font-size: 30px; letter-spacing: -0.5px; }
 }
 
 /* ---- Feature cards (services) ---- */

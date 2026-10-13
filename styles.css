@@ -325,8 +325,9 @@ h1, h2, h3, h4 {
 
 .hero-video-caption {
   text-align: center;
-  font-size: 18px;
+  font-size: 54px;
   font-weight: 600;
+  letter-spacing: -1px;
   color: var(--body-strong);
   margin: var(--sp-lg) 0 var(--sp-xl);
 }
@@ -335,12 +336,13 @@ h1, h2, h3, h4 {
   .hero-pillars-recap { gap: var(--sp-md); }
   .hero-pillars-recap p { font-size: 66px; }
   .hero-video-overlay-text p { font-size: 88px; }
+  .hero-video-caption { font-size: 40px; }
 }
 
 @media (max-width: 768px) {
   .hero-pillars-recap { gap: var(--sp-xs); }
   .hero-pillars-recap p { font-size: 36px; letter-spacing: -0.2px; }
-  .hero-video-caption { font-size: 15px; }
+  .hero-video-caption { font-size: 26px; letter-spacing: -0.5px; }
   .hero-video-overlay-text p { font-size: 52px; letter-spacing: -1px; }
   .hero-nav { height: 56px; }
   .logo-mark { height: 22px; }

@@ -15,7 +15,11 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 ## Hero
 
-**Intro video** (widescreen 16:9 clip, autoplay/muted/loop, right above the headline): hero-intro.mp4.
+**Pillars recap** (horizontal row, above the video): Make It Clear. · Make It Matter. · Make It Last.
+
+**Intro video** (widescreen 16:9 clip, autoplay/muted/loop): hero-intro.mp4.
+
+**Caption under video:** Content Strategy & Creative Production
 
 # Having an idea is the easy part.
 
@@ -99,10 +103,7 @@ We build the systems, tools, and creative rhythms that keep your organization mo
 - Brand Standards
 - Ongoing Creative Partnership
 
-Recap row (each aligned under its corresponding card above):
-## Make It Clear.
-## Make It Matter.
-## Make It Last.
+(Pillars recap now lives in the Hero, above the video.)
 
 ---
 

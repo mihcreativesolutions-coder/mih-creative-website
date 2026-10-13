@@ -252,13 +252,32 @@ h1, h2, h3, h4 {
   padding-bottom: var(--sp-xl);
 }
 
+.hero-pillars-recap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: var(--sp-lg);
+  text-align: center;
+  margin-bottom: var(--sp-xl);
+}
+
+.hero-pillars-recap p {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+  font-size: 32px;
+  letter-spacing: -0.5px;
+}
+
 .hero-video-bleed {
   width: 100%;
   aspect-ratio: 16 / 9;
   max-height: 640px;
   background: #000;
   overflow: hidden;
-  margin-bottom: var(--sp-xl);
 }
 
 .hero-video-bleed video {
@@ -266,6 +285,25 @@ h1, h2, h3, h4 {
   height: 100%;
   object-fit: cover;
   display: block;
+}
+
+.hero-video-caption {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--body-strong);
+  margin: var(--sp-lg) 0 var(--sp-xl);
+}
+
+@media (max-width: 1024px) {
+  .hero-pillars-recap { gap: var(--sp-md); }
+  .hero-pillars-recap p { font-size: 22px; }
+}
+
+@media (max-width: 768px) {
+  .hero-pillars-recap { gap: var(--sp-xs); }
+  .hero-pillars-recap p { font-size: 12px; letter-spacing: -0.2px; }
+  .hero-video-caption { font-size: 15px; }
 }
 
 .hero-copy { max-width: 1040px; }

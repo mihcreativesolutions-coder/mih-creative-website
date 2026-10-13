@@ -304,26 +304,17 @@ h1, h2, h3, h4 {
   display: block;
 }
 
-.hero-video-overlay-text {
+.hero-video-overlay-mark {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: 4;
-  text-align: center;
+  width: 520px;
+  max-width: 70%;
+  height: auto;
   pointer-events: none;
-}
-
-.hero-video-overlay-text p {
-  margin: 0;
-  font-family: var(--font-display);
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #fff;
-  font-size: 128px;
-  line-height: 0.95;
-  letter-spacing: -2px;
-  text-shadow: 0 4px 32px rgba(0, 0, 0, 0.4);
+  filter: drop-shadow(0 4px 32px rgba(0, 0, 0, 0.4));
 }
 
 .hero-video-caption {
@@ -338,7 +329,7 @@ h1, h2, h3, h4 {
 @media (max-width: 1024px) {
   .hero-pillars-recap { gap: var(--sp-md); }
   .hero-pillars-recap p { font-size: 66px; }
-  .hero-video-overlay-text p { font-size: 88px; }
+  .hero-video-overlay-mark { width: 400px; }
   .hero-video-caption { font-size: 40px; }
 }
 
@@ -346,7 +337,7 @@ h1, h2, h3, h4 {
   .hero-pillars-recap { gap: var(--sp-xs); }
   .hero-pillars-recap p { font-size: 36px; letter-spacing: -0.2px; }
   .hero-video-caption { font-size: 26px; letter-spacing: -0.5px; }
-  .hero-video-overlay-text p { font-size: 52px; letter-spacing: -1px; }
+  .hero-video-overlay-mark { width: 280px; max-width: 80%; }
   .hero-nav { height: 56px; }
   .logo-mark { height: 22px; }
 }

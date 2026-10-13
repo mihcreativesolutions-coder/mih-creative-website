@@ -17,7 +17,7 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 **Full-bleed intro video** (fills the viewport, autoplay/muted/loop): hero-intro.mp4. Nav is transparent and overlaid directly on the video — MIH logo mark only (no wordmark) top-left, Services/Contact + Let's Talk top-right.
 
-**Overlay text on the video:** MAKE IT / HAPPEN (large, bold, white, centered).
+**Overlay on the video:** handwritten "Make it happen" mark (white, centered).
 
 **Pillars recap** (horizontal row, below the video): Make It Clear. · Make It Matter. · Make It Last.
 

@@ -274,8 +274,9 @@ h1, h2, h3, h4 {
 
 .hero-video-bleed {
   width: 100%;
-  aspect-ratio: 16 / 9;
-  max-height: 640px;
+  height: calc(100vh - 64px);
+  min-height: 420px;
+  max-height: 900px;
   background: #000;
   overflow: hidden;
 }

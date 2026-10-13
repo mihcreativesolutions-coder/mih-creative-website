@@ -346,29 +346,6 @@ h1, h2, h3, h4 {
   .logo-mark { height: 22px; }
 }
 
-.hero-copy { max-width: 1040px; }
-
-.hero-copy .caption-uppercase { margin-bottom: var(--sp-md); display: block; }
-
-.hero-copy h1 { margin-bottom: var(--sp-lg); }
-
-.hero-copy p {
-  max-width: 620px;
-  margin: 0 0 var(--sp-xl);
-}
-
-.hero-tagline {
-  display: flex;
-  flex-direction: column;
-  gap: var(--sp-sm);
-  margin: 0 0 var(--sp-xl);
-}
-
-.hero-tagline p {
-  max-width: 620px;
-  margin: 0;
-}
-
 .hero-actions { display: flex; align-items: center; gap: var(--sp-lg); flex-wrap: wrap; }
 
 /* ---- Logo marquee ---- */
@@ -685,14 +662,6 @@ h1, h2, h3, h4 {
 
 .cadence p { margin: 0 0 0.35em; }
 .cadence p:last-child { margin-bottom: 0; }
-
-.handwritten-mark {
-  width: 520px;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: var(--sp-xl) 0 0;
-}
 
 .pillars-closing {
   max-width: 720px;

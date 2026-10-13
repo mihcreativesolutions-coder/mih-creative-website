@@ -23,24 +23,6 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 **Caption under that:** Content Strategy & Creative Production
 
-# Having an idea is the easy part.
-
-**Building something people believe in takes hard work.** (medium, bold)
-
-We're here to provide clarity in that work.
-
-I'm Erik. The last note my father left me was simple:
-
-[Handwritten "Make it happen" mark — image, not text]
-
-Over time, those three words became more than a reminder. They became the way we approach every project:
-
-Bring clarity to the vision.
-
-Create experiences people connect with.
-
-Build the momentum to keep it moving.
-
 **Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures, Prince, Paisley Park)
 
 **Featured video** (standalone widescreen 16:9 clip, autoplay/muted/loop, right under the logo marquee): Barbie x Love Your Melon campaign spot.

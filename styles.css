@@ -317,13 +317,22 @@ h1, h2, h3, h4 {
   filter: drop-shadow(0 4px 32px rgba(0, 0, 0, 0.4));
 }
 
+.hero-divider {
+  width: 80px;
+  height: 1px;
+  margin: 0 auto var(--sp-xl);
+  border: none;
+  background: var(--hairline);
+}
+
 .hero-video-caption {
+  max-width: 900px;
   text-align: center;
   font-size: 54px;
   font-weight: 600;
   letter-spacing: -1px;
   color: var(--body-strong);
-  margin: var(--sp-lg) 0 var(--sp-xl);
+  margin: var(--sp-lg) auto var(--sp-xl);
 }
 
 @media (max-width: 1024px) {

@@ -21,7 +21,7 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 **Pillars recap** (horizontal row, below the video): Make It Clear. · Make It Matter. · Make It Last.
 
-**Caption under that:** Content Strategy & Creative Production
+**Divider line, then caption under that:** MIH Creative Solutions is a content strategy & creative production company.
 
 **Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures, Prince, Paisley Park)
 

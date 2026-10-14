@@ -43,7 +43,7 @@ Partners don't commit.
 
 Investors don't fund.
 
-**Video marquee** (scrolling row of portrait 9:16 client clips, autoplay/muted/loop): Gravity, Isabel Bootcamp, Knee Wrap, Mechanic Peter, Elijah Yoga, Prince ("Share Your Prince Story" activation).
+**Video marquee** (scrolling row of portrait 9:16 client clips, autoplay/muted/loop): Gravity, Isabel Bootcamp, Knee Wrap, Mechanic Peter, Elijah Yoga.
 
 MIH brings clarity to your **vision**, elevates your **experience**, and builds **momentum** that lasts.
 

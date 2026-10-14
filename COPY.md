@@ -91,6 +91,8 @@ We build the systems, tools, and creative rhythms that keep your organization mo
 
 (Pillars recap now lives in the Hero, above the video.)
 
+**Explainer video** (standalone widescreen 16:9 clip, right under the pillar cards, with controls — not autoplay/loop): MIH Explainer.
+
 ---
 
 ## Closing CTA

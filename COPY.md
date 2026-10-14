@@ -23,7 +23,7 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 **Divider line, then caption under that:** MIH Creative Solutions is a content strategy & creative production company.
 
-**Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures, Prince, Paisley Park)
+**Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures)
 
 **Featured video** (standalone widescreen 16:9 clip, autoplay/muted/loop, right under the logo marquee): Barbie x Love Your Melon campaign spot.
 

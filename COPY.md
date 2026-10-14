@@ -9,13 +9,13 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 - Services
 - Contact
 
-**CTA:** Let's Talk (mailto:erik@mihcreativesolutions.com)
+**CTA:** Get Started (mailto:erik@mihcreativesolutions.com)
 
 ---
 
 ## Hero
 
-**Full-bleed intro video** (fills the viewport, autoplay/muted/loop): hero-intro.mp4. Nav is transparent and overlaid directly on the video — MIH logo mark only (no wordmark) top-left, Services/Contact + Let's Talk top-right.
+**Full-bleed intro video** (fills the viewport, autoplay/muted/loop): hero-intro.mp4. Nav is transparent and overlaid directly on the video — MIH logo mark only (no wordmark) top-left, Services/Contact + Get Started top-right.
 
 **Overlay on the video:** handwritten "Make it happen" mark (white, centered).
 
@@ -97,15 +97,7 @@ We build the systems, tools, and creative rhythms that keep your organization mo
 
 ## Let's Make It Happen.
 
-Tell us what you're building.
-
-Tell us where you're stuck.
-
-Tell us where you want to go.
-
-We'll figure out the clearest path forward together.
-
-**erik@mihcreativesolutions.com**
+**CTA:** Get Started (mailto:erik@mihcreativesolutions.com)
 
 ---
 

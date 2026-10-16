@@ -19,9 +19,9 @@ This is a snapshot of every piece of copy currently on the site, pulled from the
 
 **Overlay on the video:** handwritten "Make it happen" mark (white, centered).
 
-**Pillars recap** (horizontal row, below the video): Make It Clear. · Make It Matter. · Make It Last.
+**Caption under the video, then a divider line:** MIH Creative Solutions is a content strategy & creative production company.
 
-**Divider line, then caption under that:** MIH Creative Solutions is a content strategy & creative production company.
+**Pillars recap** (horizontal row, below the divider): Make It Clear. · Make It Matter. · Make It Last. · Make It Happen.
 
 **Logo marquee — "Brands We've Worked With"** (scrolling row of client/brand logos: Family Freedom Center, Gravity, Homesick, Love Your Melon, QALO, ODIGO Wellness, The Bulldog Uptown, Craftsmen Decks & Structures)
 

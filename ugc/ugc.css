@@ -1,0 +1,92 @@
+/* ---- UGC landing page — standalone layout on top of the shared design tokens ---- */
+
+body { background: var(--canvas); }
+
+.ugc-header {
+  padding: var(--sp-lg) 0;
+}
+
+.ugc-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ugc-header .logo-mark { height: 28px; width: auto; }
+
+.ugc-hero {
+  padding: var(--sp-xxl) 0 var(--sp-section);
+}
+
+.ugc-hero .container { max-width: 880px; }
+
+.ugc-hero h1 { margin: var(--sp-md) 0 var(--sp-lg); }
+
+.ugc-hero .lead { max-width: 640px; margin-bottom: var(--sp-xl); }
+
+.ugc-examples { padding: var(--sp-xl) 0 var(--sp-section); }
+
+.ugc-examples h2 { margin: var(--sp-md) 0 var(--sp-xl); }
+
+.ugc-video-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: var(--sp-lg);
+}
+
+.ugc-video-card {
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  aspect-ratio: 9 / 16;
+  background: #000;
+}
+
+.ugc-video-card video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.ugc-included { padding: var(--sp-xl) 0 var(--sp-section); }
+
+.ugc-included h2 { margin: var(--sp-md) 0 var(--sp-xl); }
+
+.ugc-feature-grid { grid-template-columns: repeat(3, 1fr); }
+
+.ugc-cta { padding: var(--sp-xl) 0 var(--sp-section); }
+
+.ugc-footer {
+  padding: var(--sp-xl) 0;
+  border-top: 1px solid var(--hairline);
+}
+
+.ugc-footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-lg);
+  flex-wrap: wrap;
+}
+
+.ugc-footer .logo-mark { height: 24px; width: auto; }
+
+.ugc-footer span { font-size: 13px; color: var(--muted); }
+
+@media (max-width: 1024px) {
+  .ugc-video-grid { grid-template-columns: repeat(3, 1fr); }
+  .ugc-feature-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 768px) {
+  .container { padding: 0 var(--sp-lg); }
+  section { padding: 48px 0; }
+
+  .ugc-hero { padding-top: var(--sp-xl); }
+  .display-xl { font-size: 36px; letter-spacing: -1px; }
+  .display-md { font-size: 28px; letter-spacing: -0.5px; }
+
+  .ugc-video-grid { grid-template-columns: repeat(2, 1fr); gap: var(--sp-sm); }
+
+  .ugc-footer .container { flex-direction: column; align-items: flex-start; }
+}

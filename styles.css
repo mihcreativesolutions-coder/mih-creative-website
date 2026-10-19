@@ -283,7 +283,7 @@ h1, h2, h3, h4 {
   font-weight: 500;
   color: var(--ink);
   white-space: nowrap;
-  font-size: 96px;
+  font-size: 32px;
   letter-spacing: -0.5px;
 }
 
@@ -337,14 +337,14 @@ h1, h2, h3, h4 {
 
 @media (max-width: 1024px) {
   .hero-pillars-recap { gap: var(--sp-md); }
-  .hero-pillars-recap p { font-size: 66px; }
+  .hero-pillars-recap p { font-size: 22px; }
   .hero-video-overlay-mark { width: 400px; }
   .hero-video-caption { font-size: 40px; }
 }
 
 @media (max-width: 768px) {
   .hero-pillars-recap { gap: var(--sp-xs); }
-  .hero-pillars-recap p { font-size: 36px; letter-spacing: -0.2px; }
+  .hero-pillars-recap p { font-size: 12px; letter-spacing: -0.2px; }
   .hero-video-caption { font-size: 26px; letter-spacing: -0.5px; }
   .hero-video-overlay-mark { width: 280px; max-width: 80%; }
   .hero-nav { height: 56px; }
